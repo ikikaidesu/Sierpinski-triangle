@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/yd1BLM4/Sierpinski-triangle-Logo.png" alt="Project Logo">
+      <img src="https://i.ibb.co/gySDHRC/Sierpinski-triangle-Logo.png" alt="Project Logo">
 </p>
 
 <p align="center">
