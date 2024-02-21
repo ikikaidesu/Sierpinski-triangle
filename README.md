@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/.NET CSharp-blueviolet" alt="Python Version">
-    <img src="https://img.shields.io/badge/wpf-blueviolet" alt="Tkinter Version">
+    <img src="https://img.shields.io/badge/.NET CSharp-blueviolet" alt="Csharp">
+    <img src="https://img.shields.io/badge/wpf-blueviolet" alt="wpf">
 </p>
 
 <p align="center">
